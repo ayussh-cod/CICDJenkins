@@ -1,5 +1,6 @@
 ## .net files for Jenkins CI/CD Course
 
+
 Install .net SDK in Ubuntu22:
 ```
 sudo apt install dotnet-sdk-6.0
